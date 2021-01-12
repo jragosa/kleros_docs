@@ -20,6 +20,7 @@
 ## INTEGRATIONS
 
 * [Overview](integrations/overview.md)
+* [Use Cases](integrations/untitled.md)
 * [Current Integrations](integrations/current-integrations.md)
 
 ## Developer
