@@ -18,6 +18,26 @@ This guide is a compilation of years of experience in the fields of traditional 
 | :--- | :--- | :--- | :--- |
 | General process and standards for writing and pushing software. | Smart contract specific security protocols. | Stylistic guidelines for our main languages and tools. | Our standard license and conduct guidelines. |
 
+## Kathari CLI
+
+### Making Everyone's Life Easier
+
+To make following our standards easier, we made [Kathari](https://github.com/kleros/kathari), a linting and formatting scripts for multiple types of projects.
+
+{% hint style="info" %}
+It means "Clean" in Greek.
+{% endhint %}
+
+It's a CLI that can easily be integrated into new projects to provide automatic linting and formatting that adheres to our standards on everything from code to git commit messages.
+
+It's based on very popular open source technologies so there are integrations for all of the most popular text editors and IDEs.
+
+## Main Repos
+
+* [kleros](https://github.com/kleros) - [Kleros whitepaper](https://kleros.io/assets/whitepaper.pdf) arbitrator implementation smart contracts.
+* [kleros-interaction](https://github.com/kleros-interaction) - Arbitrable smart contracts and other contracts that can interact with Kleros.
+* [archon](https://github.com/kleros/archon) - Wrapper that simplifies interfacing with smart contracts that adhere to the [arbitration \(ERC792\)](https://github.com/ethereum/EIPs/issues/792) and [evidence \(ERC1497\)](https://github.com/ethereum/EIPs/issues/1497) standards.
+
 ## Referencing This Guide
 
 All of our projects' `CONTRIBUTING.md` files should link to this page, but they can also specify their own project-specific guidelines in that same file.

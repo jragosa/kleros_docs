@@ -6,7 +6,7 @@ description: Our standards for smart contract code.
 
 ## Style
 
-We follow the [Official Solidity Style Guide](https://solidity.readthedocs.io/en/develop/style-guide.html) and use [Kathari](../kathari.md) for linting.
+We follow the [Official Solidity Style Guide](https://solidity.readthedocs.io/en/develop/style-guide.html) and use [Kathari]() for linting.
 
 ## Comments & Documentation
 

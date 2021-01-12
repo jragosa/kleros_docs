@@ -26,12 +26,11 @@
 
 * [ERC-792: Arbitration Standard](developer/erc-792-arbitration-standard.md)
 * [ERC 1497: Evidence Standard](developer/erc-1497-evidence-standard.md)
+* [Archon: Ethereum Arbitration Standard API](developer/archon-ethereum-arbitration-standard-api.md)
 
 ## Contribution Guidelines
 
 * [Overview](contribution-guidelines/overview.md)
-* [Kathari CLI](contribution-guidelines/kathari.md)
-* [Project Topology](contribution-guidelines/project-topology.md)
 * [General Dev. Workflow](contribution-guidelines/general-dev.-workflow/README.md)
   * [Task Tracking & Lifecycle](contribution-guidelines/general-dev.-workflow/task-tracking-and-lifecycle.md)
   * [Releases](contribution-guidelines/general-dev.-workflow/releases.md)

@@ -12,5 +12,5 @@ That said, I think we still do pretty well with staying up to date, although I'm
 
 ## Our Approach
 
-There is no point in listing out a bunch of frameworks and linters here. In general, we follow the **"pick the best tool for the job philosophy"**. Check out [Kathari](../kathari.md) and [one of our dapps](https://github.com/kleros/doges-on-trial) to get a sense of what we think that is at the moment.
+There is no point in listing out a bunch of frameworks and linters here. In general, we follow the **"pick the best tool for the job philosophy"**. Check out [Kathari]() and [one of our dapps](https://github.com/kleros/doges-on-trial) to get a sense of what we think that is at the moment.
 

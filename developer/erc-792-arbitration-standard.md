@@ -19,3 +19,5 @@ In the linked documentation, you will be guided through the usage of this standa
 
 📖 [Link to full ERC-792 documentation](https://developer.kleros.io/en/latest/index.html) 📖 
 
+📜 [EIP-792](https://github.com/ethereum/EIPs/issues/792) 📜
+

@@ -20,3 +20,5 @@ In the linked documentation, you will be guided through the implementation of an
 
 📖 [Link to full ERC-1497 documentation](https://developer.kleros.io/en/latest/erc-1497.html#) 📖 
 
+📜  [EIP-1497 ](https://github.com/ethereum/EIPs/issues/1497)📜
+

@@ -18,7 +18,7 @@ We try to keep the number of tools we use to a minimum for simplicity and ease o
 
 ## Labels for Days
 
-We also have a very comprehensive set of labels that can be automatically added to a repo using [Kathari](../kathari.md). It's important that all issues and pull requests have a priority, status, and type, and that they keep track of who is working and who is reviewing, if anyone.
+We also have a very comprehensive set of labels that can be automatically added to a repo using [Kathari](). It's important that all issues and pull requests have a priority, status, and type, and that they keep track of who is working and who is reviewing, if anyone.
 
 ### **Optional**
 
