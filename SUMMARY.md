@@ -49,3 +49,13 @@
 
 ## Additional Resources
 
+---
+
+* [Telegram](https://t.me/kleros)
+* [Reddit](https://reddit.com/r/Kleros/)
+* [Github](https://github.com/kleros)
+* [Slack](https://slack.kleros.io/)
+* [Twitter](https://twitter.com/kleros_io)
+* [Blog](https://blog.kleros.io/)
+* [Forum](https://forum.kleros.io/)
+
